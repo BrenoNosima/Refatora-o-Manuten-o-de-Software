@@ -1,6 +1,6 @@
-package Atividade12;
+package Atividade12.ExtractMethod;
 
-public class Exercicio1e {
+public class Exercicio5 {
     public void avaliarEmprestimo(String cliente, double renda, double valorSolicitado) {
         double limite = renda * 0.3;
         double parcela = valorSolicitado / 12;

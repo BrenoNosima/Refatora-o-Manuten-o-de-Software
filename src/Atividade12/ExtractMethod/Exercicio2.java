@@ -1,6 +1,6 @@
-package Atividade12;
+package Atividade12.ExtractMethod;
 
-public class Exercicio1b {
+public class Exercicio2 {
     public void processarMatricula(String aluno, int disciplinas, boolean bolsista) {
         double valorBase = disciplinas * 120.0;
 

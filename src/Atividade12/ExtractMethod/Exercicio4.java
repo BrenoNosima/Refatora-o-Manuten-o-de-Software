@@ -1,6 +1,6 @@
-package Atividade12;
+package Atividade12.ExtractMethod;
 
-public class Exercicio1d {
+public class Exercicio4 {
     public void finalizarVenda(String produto, int quantidade, double preco, boolean entregaExpressa) {
         double subtotal = quantidade * preco;
 

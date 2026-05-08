@@ -1,6 +1,6 @@
-package Atividade12;
+package Atividade12.ExtractMethod;
 
-public class Exercicio1a {
+public class Exercicio1 {
     public void emitirRecibo(String cliente, int quantidade, double precoUnitario) {
         double subtotal = quantidade * precoUnitario;
         double imposto = subtotal * 0.10;

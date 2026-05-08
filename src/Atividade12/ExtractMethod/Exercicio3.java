@@ -1,6 +1,6 @@
-package Atividade12;
+package Atividade12.ExtractMethod;
 
-public class Exercicio1c {
+public class Exercicio3 {
     public void gerarRelatorioFuncionario(String nome, int horas, double valorHora) {
         double salarioBruto = horas * valorHora;
         double desconto = salarioBruto * 0.08;
