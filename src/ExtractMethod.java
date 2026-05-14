@@ -1,4 +1,4 @@
-public class ExtractMethod {
+spublic class ExtractMethod {
 
 /*
     1. Encontrar diferentes funcionalidades no método;
